@@ -1,0 +1,288 @@
+Loadlist
+Exported from miif.sch at 4/11/24 1:28 PM
+EAGLE Version 7.7.0 Copyright (c) 1988-2016 CadSoft
+Assembly variant: Rev 2
+
+Board Top
+---------
+
+Part     Value                               Device                              Package                                         Library                        Sheet
+
+BATT1                                        COIN_CELL12MM                       KEYSTONE_3001                                   djd_eagle_library              3
+
+C1       0.1 uF                              C-USSMT0805                         C0805                                           djd_eagle_library              1
+C2       0.1 uF                              C-USSMT0805                         C0805                                           djd_eagle_library              1
+
+C19      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              3
+C21      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              3
+C22      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              3
+C23      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              3
+C24      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              3
+C27      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C29      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C32      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C35      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C36      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C37      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C38      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C39      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C40      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C41      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C42      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C43      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C44      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C48      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C55      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C59      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C60      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C61      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              5
+C65      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              6
+C66      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              6
+C67      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              6
+C68      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              6
+C69      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              6
+C70      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              6
+C71      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              6
+C72      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              6
+C73      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              6
+C74      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              6
+C75      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              6
+C76      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              6
+C77      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              6
+C78      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              6
+C79      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              6
+C80      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              6
+C81      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              7
+C82      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              7
+C83      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              7
+C84      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              7
+C85      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              7
+C86      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              7
+C87      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              7
+C88      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              7
+C94      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              7
+C95      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              7
+C96      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              7
+C97      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              7
+
+C3       470 uF                              CPOL-USSMT08X10                     ECAP-0810                                       djd_eagle_library              1
+C4       470 uF                              CPOL-USSMT08X10                     ECAP-0810                                       djd_eagle_library              1
+
+C5       10 uF                               C-USSMT0805                         C0805                                           djd_eagle_library              1
+C6       10 uF                               C-USSMT0805                         C0805                                           djd_eagle_library              1
+C9       10 uF                               C-USSMT0805                         C0805                                           djd_eagle_library              1
+C10      10 uF                               C-USSMT0805                         C0805                                           djd_eagle_library              1
+
+C14      10 uF                               C-USSMT0603                         C0603                                           djd_eagle_library              1
+C15      10 uF                               C-USSMT0603                         C0603                                           djd_eagle_library              1
+C17      10 uF                               C-USSMT0603                         C0603                                           djd_eagle_library              3
+C18      10 uF                               C-USSMT0603                         C0603                                           djd_eagle_library              3
+C26      10 uF                               C-USSMT0603                         C0603                                           djd_eagle_library              4
+C28      10 uF                               C-USSMT0603                         C0603                                           djd_eagle_library              4
+C30      10 uF                               C-USSMT0603                         C0603                                           djd_eagle_library              4
+C33      10 uF                               C-USSMT0603                         C0603                                           djd_eagle_library              4
+
+C7       47 uF                               C-USSMT0805                         C0805                                           djd_eagle_library              1
+C8       47 uF                               C-USSMT0805                         C0805                                           djd_eagle_library              1
+C11      47 uF                               C-USSMT0805                         C0805                                           djd_eagle_library              1
+C12      47 uF                               C-USSMT0805                         C0805                                           djd_eagle_library              1
+C13      47 uF                               C-USSMT0805                         C0805                                           djd_eagle_library              1
+
+C16      120 uF                              CPOL-USSMT06X06                     ECAP-0606                                       djd_eagle_library              2
+C20      120 uF                              CPOL-USSMT06X06                     ECAP-0606                                       djd_eagle_library              3
+C25      120 uF                              CPOL-USSMT06X06                     ECAP-0606                                       djd_eagle_library              3
+
+C31      0.01 uF                             C-USSMT0603                         C0603                                           djd_eagle_library              4
+C34      0.01 uF                             C-USSMT0603                         C0603                                           djd_eagle_library              4
+
+C62      33 pF                               C-USSMT0603                         C0603                                           djd_eagle_library              5
+C63      33 pF                               C-USSMT0603                         C0603                                           djd_eagle_library              5
+
+C64      DNP                                 C-USSMT0603                         C0603                                           djd_eagle_library              5
+
+CM       RASPBERRYPI-CM4                     RASPBERRYPI-CM4                     RASPBERRYPI-CM4                                 CM4                            2
+
+CON1(TH) XT60PW-M                            XT60PW-M                            AMASS_XT60PW-M                                  XT60PW-M                       1
+
+CON2(TH)                                     USBFCI_87520                        FCI_87520                                       djd_eagle_library              3
+
+CON3     10029449-111RLF                     10029449-111RLF                     AMPHENOL_10029449-111RLF                        10029449-111RLF                3
+
+CON4     1-1734248-5                         1-1734248-5                         TE_1-1734248-5                                  1-1734248-5                    3
+
+CON5     SM04B-SRSS-TB(LF)(SN)               SM04B-SRSS-TB(LF)(SN)               JST_SM04B-SRSS-TB(LF)(SN)                       SM04B-SRSS-TB_LF__SN_          3
+
+CON6(TH) 47053-1000                          47053-1000                          470531000                                       47053-1000                     3
+
+CON7(TH) B2B-PH-K-S                          B2B-PH-K-S                          B2B-PH-K-S                                      con-JST PH                     3
+
+D1       SMBJ24                              DIODESMT214AA                       DO214AA                                         djd_eagle_library              1
+
+D2       12V                                 ZENER_DIODESOD123                   SOD123                                          djd_eagle_library              1
+
+D3       BAT54C                              BAT54C                              SOT23                                           diode                          3
+D4       BAT54C                              BAT54C                              SOT23                                           diode                          5
+
+F1       3A                                  FUSE_2IO5X20_SIDE                   FUSE_5_20_MM_SIDE                               djd_eagle_library              1
+
+L1       100ohm/2.5A                         INDUCTORSMT0603                     L0603                                           djd_eagle_library              4
+L2       100ohm/2.5A                         INDUCTORSMT0603                     L0603                                           djd_eagle_library              4
+L3       100ohm/2.5A                         INDUCTORSMT0603                     L0603                                           djd_eagle_library              4
+
+LED1     GREEN                               LEDCHIPLED_0603                     CHIPLED_0603                                    led                            1
+LED2     GREEN                               LEDCHIPLED_0603                     CHIPLED_0603                                    led                            1
+LED3     GREEN                               LEDCHIPLED_0603                     CHIPLED_0603                                    led                            2
+
+LED4     YELLOW                              LEDCHIPLED_0603                     CHIPLED_0603                                    led                            2
+LED5     YELLOW                              LEDCHIPLED_0603                     CHIPLED_0603                                    led                            5
+
+M1       TCAM-ETH                            TCAM-ETH                            TCAM-ETH                                        djd_eagle_library              6
+M2       TCAM-ETH                            TCAM-ETH                            TCAM-ETH                                        djd_eagle_library              6
+M3       TCAM-ETH                            TCAM-ETH                            TCAM-ETH                                        djd_eagle_library              6
+M4       TCAM-ETH                            TCAM-ETH                            TCAM-ETH                                        djd_eagle_library              6
+M5       TCAM-ETH                            TCAM-ETH                            TCAM-ETH                                        djd_eagle_library              7
+M6       TCAM-ETH                            TCAM-ETH                            TCAM-ETH                                        djd_eagle_library              7
+
+PS1      RPX-4.0-CT                          RPX-4.0-CT                          CONV_RPX-4.0-CT                                 RPX-4.0-CT                     1
+PS2      RPX-4.0-CT                          RPX-4.0-CT                          CONV_RPX-4.0-CT                                 RPX-4.0-CT                     1
+
+Q1       SI4447ADY-T1-GE3                    MOSFET_PCHANNEL_SO8SO8              SO8                                             djd_eagle_library              1
+
+R1       10 kohm                             R-USSMT0603                         R0603                                           djd_eagle_library              1
+R3       10 kohm                             R-USSMT0603                         R0603                                           djd_eagle_library              1
+R6       10 kohm                             R-USSMT0603                         R0603                                           djd_eagle_library              1
+R8       10 kohm                             R-USSMT0603                         R0603                                           djd_eagle_library              1
+R13      10 kohm                             R-USSMT0603                         R0603                                           djd_eagle_library              3
+R14      10 kohm                             R-USSMT0603                         R0603                                           djd_eagle_library              3
+R17      10 kohm                             R-USSMT0603                         R0603                                           djd_eagle_library              3
+R21      10 kohm                             R-USSMT0603                         R0603                                           djd_eagle_library              5
+R25      10 kohm                             R-USSMT0603                         R0603                                           djd_eagle_library              5
+R26      10 kohm                             R-USSMT0603                         R0603                                           djd_eagle_library              5
+
+R2       2.37 kohm                           R-USSMT0603                         R0603                                           djd_eagle_library              1
+
+R4       2.2 kohm                            R-USSMT0603                         R0603                                           djd_eagle_library              1
+R10      2.2 kohm                            R-USSMT0603                         R0603                                           djd_eagle_library              2
+
+R5       4.3 kohm                            R-USSMT0603                         R0603                                           djd_eagle_library              1
+
+R7       1 kohm                              R-USSMT0603                         R0603                                           djd_eagle_library              1
+R18      1 kohm                              R-USSMT0603                         R0603                                           djd_eagle_library              2
+R19      1 kohm                              R-USSMT0603                         R0603                                           djd_eagle_library              2
+R27      1 kohm                              R-USSMT0603                         R0603                                           djd_eagle_library              5
+R28      1 kohm                              R-USSMT0603                         R0603                                           djd_eagle_library              5
+R29      1 kohm                              R-USSMT0603                         R0603                                           djd_eagle_library              5
+R30      1 kohm                              R-USSMT0603                         R0603                                           djd_eagle_library              5
+R31      1 kohm                              R-USSMT0603                         R0603                                           djd_eagle_library              5
+R32      1 kohm                              R-USSMT0603                         R0603                                           djd_eagle_library              5
+R33      1 kohm                              R-USSMT0603                         R0603                                           djd_eagle_library              5
+R34      1 kohm                              R-USSMT0603                         R0603                                           djd_eagle_library              5
+R35      1 kohm                              R-USSMT0603                         R0603                                           djd_eagle_library              5
+
+R9       24.9 kohm                           R-USSMT0603                         R0603                                           djd_eagle_library              1
+
+R15      4.7 kohm                            R-USSMT0603                         R0603                                           djd_eagle_library              3
+R16      4.7 kohm                            R-USSMT0603                         R0603                                           djd_eagle_library              3
+
+R20      3 kohm                              R-USSMT0603                         R0603                                           djd_eagle_library              4
+R23      3 kohm                              R-USSMT0603                         R0603                                           djd_eagle_library              5
+R24      3 kohm                              R-USSMT0603                         R0603                                           djd_eagle_library              5
+
+R22      499 kohm                            R-USSMT0603                         R0603                                           djd_eagle_library              5
+
+R70      220 ohm                             R-USSMT0603                         R0603                                           djd_eagle_library              2
+
+S1       DM3CS-SF                            DM3CS-SF                            HRS_DM3CS-SF                                    DM3CS-SF                       3
+
+SW1      1101M2S3AQE2                        SPDTSIDE_TH_PWR                     SIDE_PWR_SPDT                                   djd_eagle_library              1
+
+T1       HX2019FNLT                          HX2019FNLT                          XFMR_HX2019FNLT                                 HX2019FNLT                     7
+
+U1       AP7363-SP                           AP7363SP                            SO8_PAD                                         djd_eagle_library              1
+
+U2       RT9742GGJ5                          RT9742GGJ5                          TSOT-23-5                                       RT9742GGJ5                     3
+U3       RT9742GGJ5                          RT9742GGJ5                          TSOT-23-5                                       RT9742GGJ5                     3
+
+U4       SP3002-04JTG                        SP3002-04JTG                        SOT65P220X95-6N                                 SP3002-04JTG                   3
+
+U5       RT9742SNGV                          RT9742_3TERMGV                      SOT23-3                                         djd_eagle_library              3
+
+U6       PCF85063AT/AAZ                      PCF85063AT                          SO8                                             djd_eagle_library              3
+
+U7       EMC2301-1-ACZL-TR                   EMC2301                             MSOP8                                           djd_eagle_library              3
+
+U8       KS8997                              KS8997                              PQFP128-PQ                                      KS8997                         4
+
+U9       DNP                                 24AA01T-I/OT                        SOT95P270X145-5N                                Microchip_By_element14_Batch_1 5
+
+XTAL1    SC32S-7PF20PPM                      CRYSTAL3.2X1.5                      CRYSTAL-3215                                    djd_eagle_library              3
+
+XTAL2    25 MHz                              CRYSTAL5X3SMT3225                   CRYSTAL-3225                                    djd_eagle_library              5
+
+
+Board Bottom
+------------
+
+Part     Value                               Device                              Package                                         Library                        Sheet
+
+C45      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C46      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C47      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C49      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C50      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C51      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C52      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C53      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C54      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C56      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C57      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C58      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              4
+C89      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              7
+C90      0.1 uF                              C-USSMT0603                         C0603                                           djd_eagle_library              7
+
+C91      10 uF                               C-USSMT0603                         C0603                                           djd_eagle_library              7
+
+C92      1 nF                                C-USSMT0603                         C0603                                           djd_eagle_library              7
+C93      1 nF                                C-USSMT0603                         C0603                                           djd_eagle_library              7
+
+M7 (CON8)                                    FREEWAVE_Z9_PC                      FREEWAVE_Z9_PC                                  djd_eagle_library              7
+
+R11      2.2 kohm                            R-USSMT0603                         R0603                                           djd_eagle_library              3
+R12      2.2 kohm                            R-USSMT0603                         R0603                                           djd_eagle_library              3
+
+R36      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              6
+R37      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              6
+R38      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              6
+R39      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              6
+R40      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              6
+R41      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              6
+R42      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              6
+R43      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              6
+R44      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              6
+R45      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              6
+R46      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              6
+R47      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              6
+R48      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              6
+R49      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              6
+R50      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              6
+R51      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              6
+R52      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              7
+R53      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              7
+R54      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              7
+R55      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              7
+R56      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              7
+R57      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              7
+R58      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              7
+R59      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              7
+R66      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              7
+R67      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              7
+R68      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              7
+R69      33 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              7
+
+R60      49.9 ohm                            R-USSMT0603                         R0603                                           djd_eagle_library              7
+R61      49.9 ohm                            R-USSMT0603                         R0603                                           djd_eagle_library              7
+R62      49.9 ohm                            R-USSMT0603                         R0603                                           djd_eagle_library              7
+R63      49.9 ohm                            R-USSMT0603                         R0603                                           djd_eagle_library              7
+
+R64      75 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              7
+R65      75 ohm                              R-USSMT0603                         R0603                                           djd_eagle_library              7
