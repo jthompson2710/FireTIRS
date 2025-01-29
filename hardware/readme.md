@@ -191,9 +191,9 @@ Easiest is to take a commonly available short network extension cable with a RJ4
 
 | CON8 Pin | Connection |
 | --- | --- |
-| 6 | RX- Solid Orange Wire - RJ45 pin 6 |
-| 7 | RX+ Orange/White Wire - RJ45 pin 3 |
-| 9 | TX- Solid Green Wire - RJ45 pin 2 |
-| 10 | TX+ Green/White Wire - RJ45 pin 1 |
+| 6 | TX- Solid Green Wire - RJ45 pin 6 |
+| 7 | TX+ Green/White Wire - RJ45 pin 3 |
+| 9 | RX- Solid Orange Wire - RJ45 pin 2 |
+| 10 | RX+ Orange/White Wire - RJ45 pin 1 |
 
 ![FireTIRS Ethernet cable assembly](pictures/ethernet_cable_assy.jpg)
